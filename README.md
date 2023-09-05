@@ -32,7 +32,7 @@ me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif
 
 <div>
   <h2>Time for a Giggles Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
-    <p align="center">
+    <p style="text-align: center;">
       <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="max-width: 100%; padding: 16px;">
     </p>
 </div>
