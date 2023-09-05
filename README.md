@@ -6,12 +6,12 @@ I am a student pursuing a degree in Information Engineering. My main interest li
 
 ---
 
-<h2 style="display: flex; align-items: center;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="45px" alt="Skills" style="vertical-align:middle;"> Familiar Tools & Tech</h2>
+<h2>Familiar Tools & Tech <img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="40px" alt="Skills" style="vertical-align:middle;"></h2>
 
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
 ---
 
-<h2><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="65px" alt="Handshake" style="vertical-align:bottom;"> Connect with me</h2>
+<h2>Connect with me <img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="65px" alt="Handshake" style="vertical-align:bottom;"></h2>
 
 ---
