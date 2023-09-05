@@ -89,18 +89,21 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 
 ---
 
-<div>
 <h2>Connect with
 me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="65px" alt="Handshake" style="vertical-align:bottom;margin-left:16px;"></h2>
-</div>
+
+<p style="padding: 10px 30px">
+    <a href="https://linkedin.com/in/mlankr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+    &emsp;
+    <a href="https://www.xing.com/profile/milan_koirala"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="XING"/></a>
+</p>
 
 ---
 
-<div>
-  <h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
-  <p align="center">
-      <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="max-width: 100%; padding: 16px;">
-    </p>
-</div>
+
+<h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
+<p style="text-align: center !important;padding: 16px">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="height:auto; vertical-align: middle">
+</p>
 
 ---
