@@ -7,11 +7,11 @@ I am a student pursuing a degree in Information Engineering. My main interest li
 ---
 
 <h2 style="display: flex; align-items: center;">
-    <img src="https://github.com/mlankr/mlankr/blob/main/assets/assets/gifs/skill.gif" width="30px" alt="Skills" style="margin-right: 10px;"> Familiar Tools & Tech</h2>
+    <img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="30px" alt="Skills" style="margin-right: 10px;"> Familiar Tools & Tech</h2>
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
 ---
 
-<h2 style="display: flex; align-items: center;"><img src='https://github.com/mlankr/mlankr/blob/main/assets/assets/gifs/handshake.gif' width="30px" alt="Handshake" style="margin-right: 10px;">Connect with me </h2>
+<h2 style="display: flex; align-items: center;"><img src='https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif' width="30px" alt="Handshake" style="margin-right: 10px;">Connect with me </h2>
 
 ---
