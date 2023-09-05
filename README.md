@@ -7,7 +7,7 @@
 ---
 
 <div style="padding:16px">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hi,+fellow+coders!+Welcome+to+my+GitHub.;I'm+Milan+Koirala;Computer+Science+Student;And+Programming+Enthusiast!" alt="Greeting" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hi,+fellow+<coders/>+!+Welcome+to+my+GitHub.;I'm+Milan+Koirala;Computer+Science+Student;And+Programming+Enthusiast!" alt="Greeting" />
 </div>
 
 I am currently pursuing a degree in Information Engineering. My main interest lies in coding and solving problems.
@@ -31,7 +31,7 @@ me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif
 ---
 
 <div>
-  <h2>Time for a Giggles Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
+  <h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
   <p align="center">
       <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="max-width: 100%; padding: 16px;">
     </p>
