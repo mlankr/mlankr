@@ -1,0 +1,20 @@
+### IntelliJ IDEA ###
+.idea
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+
+# Miscellaneous
+**/.git
+**/node_modules
+**/npm-debug.log
+**/yarn-error.log
+**/dist
+**/tmp
+**/.vscode
+**/Debug
+**/.env
+**/.env.local
+**/.env.backup
