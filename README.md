@@ -13,6 +13,7 @@ I am currently pursuing a degree in Information Engineering. My main interest li
 
 ---
 
+<br>
 <h2>Familiar Tools &
 Tech<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;margin-left:16px;"></h2>
 
@@ -88,6 +89,7 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 
 ---
 
+<br>
 <h2>Connect with
 me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="65px" alt="Handshake" style="vertical-align:bottom;margin-left:16px;"></h2>
 
@@ -98,6 +100,7 @@ me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif
 
 ---
 
+<br>
 <h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="height:auto; vertical-align: middle">
 
