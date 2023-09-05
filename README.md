@@ -29,3 +29,10 @@ me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif
 </div>
 
 ---
+
+<div>
+  <h2>It's Giggles O'Clock. Time for a Chuckle Break!</h2>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="display: block; margin: 0 auto;padding: 16px">
+</div>
+
+---
