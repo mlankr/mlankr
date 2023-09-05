@@ -1,14 +1,9 @@
 <h1>Hi there<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/wave.gif" width="40px" alt="Waving" style="vertical-align:bottom;margin-left:16px;"></h1>
-
-<div style="padding:8px 0">
 <img src="https://github.com/mlankr/mlankr/blob/main/assets/images/header.png" width="900" alt="Header Image With Name">
-</div>
 
 ---
 
-<div style="padding:16px">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hello,+fellow+<coders/>!+Welcome+to+my+GitHub.;I'm+Milan+Koirala;Computer+Science+Student;And+Programming+Enthusiast!" alt="Greeting" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hello,+fellow+<coders/>!+Welcome+to+my+GitHub.;I'm+Milan+Koirala;Computer+Science+Student;And+Programming+Enthusiast!" alt="Greeting" />
 
 I am currently pursuing a degree in Information Engineering. My main interest lies in coding and solving problems.
 
@@ -92,18 +87,14 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 <h2>Connect with
 me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="65px" alt="Handshake" style="vertical-align:bottom;margin-left:16px;"></h2>
 
-<p style="padding: 10px 30px">
-    <a href="https://linkedin.com/in/mlankr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-    &emsp;
-    <a href="https://www.xing.com/profile/milan_koirala"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="XING"/></a>
-</p>
+<a href="https://linkedin.com/in/mlankr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+&emsp;
+&emsp;
+<a href="https://www.xing.com/profile/milan_koirala"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="XING"/></a>
 
 ---
 
-
 <h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
-<p style="text-align: center !important;padding: 16px">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="height:auto; vertical-align: middle">
-</p>
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card" style="height:auto; vertical-align: middle">
 
 ---
