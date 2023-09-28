@@ -1,4 +1,4 @@
-<h1>Hi there<img src="https://github.com/mlankr/mlankr/blob/4ba1478ba3d16e3c12f476d6f8c3723856d277ff/assets/gifs/wave.gif" width="40px" alt="Waving" style="vertical-align:bottom;margin-left:16px;"></h1>
+<h1>Hi there<img src="../mlankr/assets/gifs/wave.gif" width="40px" alt="Waving" style="vertical-align:bottom;margin-left:16px;"></h1>
 <img src="https://github.com/mlankr/mlankr/blob/main/assets/images/header.png" width="900" alt="Header Image With Name">
 
 <br>
@@ -12,7 +12,7 @@ I am currently pursuing a degree in Information Engineering. My main interest li
 ---
 
 <h2>Familiar Tools &
-Tech<img src="https://github.com/mlankr/mlankr/blob/4ba1478ba3d16e3c12f476d6f8c3723856d277ff/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;margin-left:16px;"></h2>
+Tech<img src="../mlankr/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;margin-left:16px;"></h2>
 
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
@@ -87,7 +87,7 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 ---
 
 <h2>Connect with
-me<img src="https://github.com/mlankr/mlankr/blob/4ba1478ba3d16e3c12f476d6f8c3723856d277ff/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;margin-left:16px;"></h2>
+me<img src="../mlankr/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;margin-left:16px;"></h2>
 
 <a href="https://linkedin.com/in/mlankr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 &emsp;
@@ -96,7 +96,7 @@ me<img src="https://github.com/mlankr/mlankr/blob/4ba1478ba3d16e3c12f476d6f8c372
 
 ---
 
-<h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/4ba1478ba3d16e3c12f476d6f8c3723856d277ff/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
+<h2>Time for a Chuckle Break<img src="../mlankr/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:16px;"></h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card">
 </p>
