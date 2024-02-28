@@ -1,4 +1,4 @@
-<h1>Hi there<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/wave.gif" width="40px"  alt="Waving" style="vertical-align:bottom;margin-left:24px;"></h1>
+<h1>Hi there<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/wave.gif" width="40px"  alt="Waving" style="vertical-align:bottom;"></span></h1>
 <img src="https://github.com/mlankr/mlankr/blob/main/assets/images/header.png" width="900" alt="Header Image With Name">
 
 <br>
@@ -12,7 +12,7 @@ I am a software engineer and my main interest lies in coding and solving problem
 ---
 
 <h2>Familiar Tools &
-Tech<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;margin-left:24px;"></h2>
+Tech<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;"></span></h2>
 
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
@@ -22,7 +22,6 @@ I'd like to highlight a few of the significant technologies I've engaged with or
     &emsp;
     ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     &emsp;
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&emsp;
     ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)&emsp;
     ![YAML](https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white)&emsp;
     ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)&emsp;
@@ -37,7 +36,7 @@ I'd like to highlight a few of the significant technologies I've engaged with or
     &emsp;
     ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
     &emsp;
-    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+    ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
     &emsp;
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
@@ -81,22 +80,25 @@ I'd like to highlight a few of the significant technologies I've engaged with or
     &emsp;
     ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)
     &emsp;
-    ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)&emsp;
+    ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
+    &emsp;
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+    &emsp;
     ![Latex](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ---
 
 <h2>Connect with
-me<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;margin-left:24px;"></h2>
+me<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;"></span></h2>
 
-<a href="https://linkedin.com/in/mlankr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/milankoirala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 &emsp;
 &emsp;
 <a href="https://www.xing.com/profile/milan_koirala"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="XING"/></a>
 
 ---
 
-<h2>Time for a Chuckle Break<img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;margin-left:24px;"></h2>
+<h2>Time for a Chuckle Break<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;"></span></h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card">
 </p>
