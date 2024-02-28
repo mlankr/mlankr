@@ -12,7 +12,7 @@ I am a software engineer and my main interest lies in coding and solving problem
 ---
 
 <h2>Familiar Tools &
-Tech<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;"></span></h2>
+Tech  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;"></span></h2>
 
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
@@ -89,7 +89,7 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 ---
 
 <h2>Connect with
-me<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;"></span></h2>
+me  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;"></span></h2>
 
 <a href="www.linkedin.com/in/milankoirala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 &emsp;
@@ -98,7 +98,7 @@ me<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/bl
 
 ---
 
-<h2>Time for a Chuckle Break<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;"></span></h2>
+<h2>Time for a Chuckle Break  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/haha.gif" width="36px" alt="Chuckle" style="vertical-align:bottom;"></span></h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="Jokes Card">
 </p>
