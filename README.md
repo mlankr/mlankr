@@ -89,7 +89,7 @@ I'd like to highlight a few of the significant technologies I've engaged with or
 
 <h2>Connect with me  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/handshake.gif" width="64px" alt="Handshake" style="vertical-align:bottom;"></span></h2>
 
-<a href="www.linkedin.com/in/milankoirala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/milankoirala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 &emsp;
 &emsp;
 <a href="https://www.xing.com/profile/milan_koirala"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white" alt="XING"/></a>
