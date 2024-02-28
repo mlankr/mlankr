@@ -11,7 +11,7 @@ I am a software engineer and my main interest lies in coding and solving problem
 
 ---
 
-<h2>Familiar Tools & Tech  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:middle;"></span></h2>
+<h2>Familiar Tools & Tech  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/skill.gif" width="36px" alt="Tech" style="vertical-align:bottom;"></span></h2>
 
 I'd like to highlight a few of the significant technologies I've engaged with or have experience with:
 
