@@ -1,4 +1,4 @@
-<h1>Hi there<span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/wave.gif" width="40px"  alt="Waving" style="vertical-align:bottom;"></span></h1>
+<h1>Hi there  <span style="margin-left: 16px;"><img src="https://github.com/mlankr/mlankr/blob/main/assets/gifs/wave.gif" width="40px"  alt="Waving" style="vertical-align:bottom;"></span></h1>
 <img src="https://github.com/mlankr/mlankr/blob/main/assets/images/header.png" width="900" alt="Header Image With Name">
 
 <br>
