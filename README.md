@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hello,+fellow+<coders/>!+Welcome+to+my+GitHub.;I'm+Milan+Koirala;Software+Engineer+And+...;Programming+Enthusiast!" alt="Greeting" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2F6A1F&size=32&center=true&vCenter=true&width=900&height=50&lines=Hello+World!;Welcome+to+my+GitHub.;I'm+Milan+Koirala.;A+software+engineer+and+...;a+programming+enthusiast!" alt="Greeting" />
 
 <br>
 
